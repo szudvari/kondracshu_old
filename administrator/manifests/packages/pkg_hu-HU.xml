@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="2.5">
+  <name>Hungarian Language Pack (formal)</name>
+  <packagename>hu-HU</packagename>
+  <version>2.5.14.1</version>
+  <creationDate>2013.10.15</creationDate>
+  <url></url>
+  <packager>JUAH</packager>
+  <packagerurl></packagerurl>
+  <description>Joomla! 2.5.14.1 Hungarian Language Package in formal style translated by Joomla! User Association Hungary</description>
+  <files>
+    <file type="language" client="site" id="hu-HU">site_hu-HU.zip</file>
+    <file type="language" client="administrator" id="hu-HU">admin_hu-HU.zip</file>
+  </files>
+  <updateservers>
+    <server type="collection" priority="1" name="Accredited Joomla! Translations">http://update.joomla.org/language/translationlist.xml</server>
+  </updateservers>
+</extension>

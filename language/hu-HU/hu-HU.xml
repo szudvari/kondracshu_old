@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metafile version="2.5" client="site">
+	<name>Hungarian (formal)</name>
+	<version>2.5.14.1</version>
+	<creationDate>2013-10-15</creationDate>
+	<author>Magyar Joomla! Felhasználók Nemzetközi Egyesülete</author>
+	<authorEmail>info@joomla.org.hu</authorEmail>
+	<authorUrl>www.joomla.org.hu</authorUrl>
+	<copyright>Copyright (C) 2007 - 2012 Joomla! User Association Hungary. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>hu-HU site language in formal style</description>
+	<metadata>
+		<name>Hungarian</name>
+		<tag>hu-HU</tag>
+		<rtl>0</rtl>
+		<locale>hu_HU.utf8, hu_HU.UTF8, hu_HU.utf-8, hu_HU.UTF-8, hun_HU.utf8, hun_HU.UTF8, hu, hungarian, hungary</locale>
+		<firstDay>1</firstDay>
+	</metadata>
+	<params />
+</metafile>
